@@ -61,7 +61,7 @@ catkin_package(
   INCLUDE_DIRS include thirdparty
   LIBRARIES flatland_lib flatland_Box2D
   CATKIN_DEPENDS pluginlib roscpp std_msgs tf2 visualization_msgs tf2_geometry_msgs geometry_msgs
-  DEPENDS OpenCV YAML_CPP
+  DEPENDS OpenCV YAML_CPP Lua
 )
 
 ###########
