@@ -33,3 +33,6 @@ Flatland uses a number of open source libraries that it includes in its source t
 - [Tweeny](https://github.com/mobius3/tweeny) Copyright (c) 2016 Leonardo Guilherme de Freitas (MIT license)
 - [Box2d](https://github.com/erincatto/Box2D) Copyright (c) 2006-2017 Erin Catto [http://www.box2d.org](http://www.box2d.org) (zlib license)
 
+### Acknowledgments
+
+This fork cherry-picks some modifications from [Steplerchik/flatland](https://github.com/Steplerchik/flatland).
